@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-public class HeadLinesFragment extends ListFragment {
+public class HeadlinesFragment extends ListFragment {
 
     OnHeadlineSelectedListener mCallback;
 
